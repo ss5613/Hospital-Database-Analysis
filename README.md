@@ -75,7 +75,7 @@ The Power BI dashboard provides an interactive and intuitive interface for explo
 
 This project demonstrates a range of data analysis and business intelligence skills:
 	
-**• Data Sourcing and Preparation:** Using Python to create a custom, clean dataset from scratch.
+**• Data Sourcing and Preparation:** Using Python to create a custom, clean dataset from scratch utilizing API's.
 
 **• Data Modelling:** Structuring and linking multiple tables in a relational model within Power BI.
 
